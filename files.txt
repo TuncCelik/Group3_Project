@@ -1,1 +1,3 @@
-some more textfiles 
+some more textfiles
+
+Hello everybody, I am making some changes here to cause a merge conflict. Hope I can succeed to create one:))

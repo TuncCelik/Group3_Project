@@ -8,20 +8,6 @@ public class gulnurNewBranch {
         System.out.println("but I am not sure");
         //added more changes
 
-        System.out.println("I got it");
-        System.out.println("I created several branches");
-
-        System.out.println("I got it");
-        System.out.println("I created several branches");
-
-        System.out.println("I got it");
-        System.out.println("I created several branches");
-
-        System.out.println("I got it");
-        System.out.println("I created several branches");
-        System.out.println("I got it");
-        System.out.println("I created several branches");
-
 
 
     }

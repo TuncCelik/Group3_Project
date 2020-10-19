@@ -8,16 +8,6 @@ public class Gulnur {
         System.out.println("I created several branches");
 
 
-        System.out.println("I got it");
-        System.out.println("I created several branches");
-
-
-        System.out.println("I think I got topic");
-        System.out.println("I got it");
-        System.out.println("I created several branches");
-
-        System.out.println("I got it");
-        System.out.println("I created several branches");
 
     }
 }
